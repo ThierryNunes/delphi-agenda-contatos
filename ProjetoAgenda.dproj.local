@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/06/24 19:57:25.072,=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/24 20:01:10.072,=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/24 20:03:58.449,C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\UPrincipal.pas=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/24 20:03:58.449,C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\UPrincipal.dfm=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/06/24 20:04:03.820,C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\UDM.dfm=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/06/24 20:04:03.820,C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\UDM.pas=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/24 20:04:25.686,C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\ProjetoAgenda.dproj=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/24 20:04:32.601,D:\Faculdade\Projeto Delphi\ProjetoAgenda\UPrincipal.pas=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\UPrincipal.pas</Transaction>
+    <Transaction>2022/06/24 20:04:32.601,D:\Faculdade\Projeto Delphi\ProjetoAgenda\UPrincipal.dfm=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\UPrincipal.dfm</Transaction>
+    <Transaction>2022/06/24 20:04:33.563,D:\Faculdade\Projeto Delphi\ProjetoAgenda\UDM.pas=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\UDM.pas</Transaction>
+    <Transaction>2022/06/24 20:04:33.563,D:\Faculdade\Projeto Delphi\ProjetoAgenda\UDM.dfm=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\UDM.dfm</Transaction>
+    <Transaction>2022/06/24 20:04:34.839,D:\Faculdade\Projeto Delphi\ProjetoAgenda\ProjetoAgenda.dproj=C:\Users\Thierry\Documents\Embarcadero\Studio\Projects\ProjetoAgenda.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
